@@ -5,10 +5,10 @@ https://rickandmortyapi.com
 
 ## Main packages
 
-  flutter_bloc
-  shared_preferences
-  get_it
-  http 
+  flutter_bloc  
+  shared_preferences  
+  get_it  
+  http   
   cached_network_image
 
 ## View
