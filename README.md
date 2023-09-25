@@ -1,17 +1,24 @@
 # rick_and_morty
 
 My First Flutter Project on GitHub.
+https://rickandmortyapi.com
 
-## Getting Started
+## Main packages
 
-This project is a starting point for a Flutter application.
+  flutter_bloc
+  shared_preferences
+  get_it
+  http 
+  cached_network_image
 
-A few resources to get you started if this is your first Flutter project:
+## View
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<img width="635" alt="Снимок экрана 2023-09-25 в 14 18 32" src="https://github.com/Melec354/rick_and_morty/assets/34657403/e9418e1b-45b3-48f6-83be-5be84d94069c">
+<img width="635" alt="Снимок экрана 2023-09-25 в 14 18 43" src="https://github.com/Melec354/rick_and_morty/assets/34657403/ed901bec-1e26-4f01-801a-9a0c06e8767b">
+<img width="635" alt="Снимок экрана 2023-09-25 в 14 18 48" src="https://github.com/Melec354/rick_and_morty/assets/34657403/4bd8a18c-d237-4f2e-9e9f-53f5112c35bb">
+<img width="635" alt="Снимок экрана 2023-09-25 в 14 18 54" src="https://github.com/Melec354/rick_and_morty/assets/34657403/0e8e9b66-5d17-4638-9e3e-4feacabdf08b">
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Запись экрана 2023-09-25 в 14 04 24](https://github.com/Melec354/rick_and_morty/assets/34657403/65aac2c3-c1d1-4066-b649-e6180c2bb82e)
+
+
 
