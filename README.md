@@ -1,4 +1,4 @@
-# rick_and_morty_update1
+# rick_and_morty
 
 A new Flutter project.
 
